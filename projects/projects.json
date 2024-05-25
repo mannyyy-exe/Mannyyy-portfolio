@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Weather4cast",
+    "desc": "Weather4Cast is a personalized weather forecasting website, designed to provide accurate and up-to-date weather information tailored to your preferences",
+    "image": "weather4cast",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weather4cast.vercel.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Solar system",
+    "desc": "solar system website is a comprehensive online platform dedicated to exploring and educating visitors about the marvels of our celestial neighborhood.",
+    "image": "solar-system",
+    "category": "basicweb",
+    "links": {
+      "view": "https://solar-system-azure.vercel.app/",
+      "code": "#"
+    }
+  }
+  ,{
+    "name": "Maitrin beauty parlour",
+    "desc": "Maitrin Beauty Parlour website is a comprehensive online platform designed to showcase  beauty salon and attract clients.",
+    "image": "beauty parlour",
+    "category": "basicweb",
+    "links": {
+      "view": "https://maitrin-beauty-salon.vercel.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Droid Sama",
+    "desc": "Droid Sama is a comprehensive online platform dedicated to anime enthusiasts, providing a wide range of features and resources tailored to the needs of anime fans. ",
+    "image": "droid sama",
+    "category": "basicweb",
+    "links": {
+      "view": "https://droid-sama.vercel.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Desi Reailty",
+    "desc": "Desi Reailty website is a powerful online platform designed to connect buyers, sellers, renters, and real estate professionals in the housing market.",
+    "image": "desi reailty",
+    "category": "basicweb",
+    "links": {
+      "view": "https://housinghar.in/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Mini projects",
+    "desc": "Mini projects website is a versatile platform designed to showcase a variety of small-scale projects across different fields and disciplines",
+    "image": "mini games",
+    "category": "basicweb",
+    "links": {
+      "view": "http://mini-project-mu-sage.vercel.app/",
+      "code": "#"
+    }
+  }
+]
